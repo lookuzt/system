@@ -3,7 +3,7 @@ Notes: nil
 ]]
 
 
-local checkthing = loadstring(game:HttpGet("https://pastebin.com/raw/UKFsqjyF"))()
+local checkthing = loadstring(game:HttpGet("https://pastebin.com/raw/j6h09cEm"))()
 return {
 ["Settings"] = {
 ["Name"] = checkthing.namefunc(),
